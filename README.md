@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Preston  
-- 👀 I’m interested in ... Computer science, computer engineering, gaming, gym, anime
+- 👀 I’m interested in ... Computer science, computer/network engineering, gaming, gym, anime
 - 🌱 I’m currently learning ... Github, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email: Prespici@hawaii.edu
